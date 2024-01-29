@@ -22,6 +22,7 @@
 
 - 📄 Know about my experiences [linkedin.com/in/nitsuh-demissew](linkedin.com/in/nitsuh-demissew)
 
+
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
