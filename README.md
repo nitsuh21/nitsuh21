@@ -17,7 +17,7 @@
 
 - 💬 Ask me about **Python, Django**
 
-- 📫 How to reach me **nitsuhdemissew21gmail.com**..
+- 📫 How to reach me **nitsuhdemissew21gmail.com**.
 
 - 📄 Know about my experiences [linkedin.com/in/nitsuh-demissew](linkedin.com/in/nitsuh-demissew)
 
