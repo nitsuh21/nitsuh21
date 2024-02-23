@@ -5,7 +5,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nitsuh21" alt="nitsuh21" /></a> </p>
 -->
 
-- 🌱 I’m currently learning **Nodejs** , **Data Science**
+- 🌱 I’m currently learning **Nodejs** , **Data Science**x
 
 - 👯 I’m looking to collaborate on **Python projects**.
 
