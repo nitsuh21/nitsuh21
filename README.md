@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Nitsuh</h1>
-<h3 align="center">A passionate full stack developer specialized in Python/Django</h3>
+<h3 align="center">A passionate full stack developer specialized in Nodejs/Python/Django</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nitsuh21&label=Profile%20views&color=0e75b6&style=flat" alt="nitsuh21" /> </p>
 <!--
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nitsuh21" alt="nitsuh21" /></a> </p>
 -->
 
-- 🌱 I’m currently learning **Nodejs** , **Data Science.**
+- 🌱 I’m currently learning **AI** , **Data Science.**
 
 - 👯 I’m looking to collaborate on **Python projects**
 
