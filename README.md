@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning **AI** , **Data Science.**
 
 - 👯 I’m looking to collaborate on **Python projects**
-
+ 
 - 🤝 I’m looking for help with **Data Science**.
 
 - 👨‍💻 All of my projects are available at [https://github.com/nitsuh21/nitsuh21](https://github.com/nitsuh21/nitsuh21)
